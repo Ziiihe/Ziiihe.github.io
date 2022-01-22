@@ -159,8 +159,11 @@ input, select, textarea {
 		color: inherit;
 	}
 
-	h2, h3, h4, h5, h6 {
+	h2, h4, h5, h6 {
 		font-weight: 700;
+	}
+	h3 {
+		font-weight: 600;
 	}
 
 	h1 {
@@ -179,7 +182,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 1em;
 		letter-spacing: -0.015em;
 	}
 
@@ -209,7 +212,7 @@ input, select, textarea {
 	}
 
 		header > p {
-			font-size: 1.25em;
+			font-size: 1em;
 			margin: 0;
 		}
 
